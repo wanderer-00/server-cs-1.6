@@ -1,2 +1,2 @@
-# server-cs-1.6
-Разработка сервера для игры Counter Strike 1.6
+# <a href="https://cscontrol.ru/load/server/12018/5108-rehlds-clear-server.html">сервер #1</a>
+
